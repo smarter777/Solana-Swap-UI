@@ -19,7 +19,7 @@
 <br />
 
 ```
-git clone https://github.com/Bonfida/swap-ui.git
+git clone https://github.com/smarter777/Solana-Swap-UI
 cd swap-ui
 yarn
 yarn dev
